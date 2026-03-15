@@ -11,6 +11,6 @@ Also dont forget to edit appconfig.h. The default LCD resolution is 240x320.
 
 2 step: open FlashTool from this repo.
 
-3 step: Select the scatter file mt6261.cat
+3 step: Select the scatter file mt6261.cfg
 
-4 step: turn off your device and connect to PC. Then, click download button. If your device is not detected by the system, install the drivers from drivers.zip archive
+4 step: turn off your device and connect to PC. Then, click download button. If your device is not detected by the system, install the drivers from drivers.rar archive
