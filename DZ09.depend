@@ -1,0 +1,213 @@
+# depslib dependency file v1.0
+1770796486 source:c:\users\user\desktop\dz09-master\source\bootloader\sha-1.c
+	"systemconfig.h"
+	"sha-1.h"
+
+1770796486 c:\users\user\desktop\dz09-master\source\systemconfig.h
+	"systypes.h"
+	"systemlib.h"
+	"guilib.h"
+	"appconfig.h"
+	"dlist.h"
+	"mt6261.h"
+	"debug.h"
+	"utils.h"
+
+1770796486 c:\users\user\desktop\dz09-master\source\systypes.h
+	<stdint.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+
+1770796486 c:\users\user\desktop\dz09-master\source\system\systemlib.h
+	"debug.h"
+	"dlist.h"
+	"mt6261.h"
+	"init.h"
+	"memory.h"
+	"utils.h"
+	"pmngr.h"
+	"evmngr.h"
+	"lrtimer.h"
+	"sw_i2c.h"
+	"ringbuf.h"
+	"crc.h"
+	"fscache.h"
+	"sf.h"
+
+1770796486 c:\users\user\desktop\dz09-master\source\system\debug.h
+
+1770796486 c:\users\user\desktop\dz09-master\source\system\dlist.h
+
+1770796486 c:\users\user\desktop\dz09-master\source\lib\mt6261\mt6261.h
+	"drivers\rtc.h"
+	"drivers\tcmcache.h"
+	"drivers\gpt.h"
+	"drivers\nvic.h"
+	"drivers\gpio.h"
+	"drivers\pctl.h"
+	"drivers\rgu.h"
+	"drivers\pmu.h"
+	"drivers\usart.h"
+	"drivers\sfi.h"
+	"drivers\emi.h"
+	"drivers\pll.h"
+	"drivers\ustimer.h"
+	"drivers\lcdif.h"
+	"drivers\auxadc.h"
+	"drivers\afe.h"
+	"drivers\pwm.h"
+	"drivers\usb.h"
+	"drivers\che.h"
+	"drivers\msdc.h"
+	"drivers\spi.h"
+	"drivers\kp.h"
+
+1770796486 c:\users\user\desktop\dz09-master\source\lib\mt6261\drivers\rtc.h
+
+1770796486 c:\users\user\desktop\dz09-master\source\lib\mt6261\drivers\tcmcache.h
+
+1770796486 c:\users\user\desktop\dz09-master\source\lib\mt6261\drivers\gpt.h
+
+1770796486 c:\users\user\desktop\dz09-master\source\lib\mt6261\drivers\nvic.h
+	"adienvic.h"
+
+1770796486 c:\users\user\desktop\dz09-master\source\lib\mt6261\drivers\adienvic.h
+
+1770796486 c:\users\user\desktop\dz09-master\source\lib\mt6261\drivers\gpio.h
+
+1770796486 c:\users\user\desktop\dz09-master\source\lib\mt6261\drivers\pctl.h
+
+1770796486 c:\users\user\desktop\dz09-master\source\lib\mt6261\drivers\rgu.h
+
+1770796486 c:\users\user\desktop\dz09-master\source\lib\mt6261\drivers\pmu.h
+
+1770796486 c:\users\user\desktop\dz09-master\source\lib\mt6261\drivers\usart.h
+
+1770796486 c:\users\user\desktop\dz09-master\source\lib\mt6261\drivers\sfi.h
+
+1770796486 c:\users\user\desktop\dz09-master\source\lib\mt6261\drivers\emi.h
+
+1770796486 c:\users\user\desktop\dz09-master\source\lib\mt6261\drivers\pll.h
+
+1770796486 c:\users\user\desktop\dz09-master\source\lib\mt6261\drivers\ustimer.h
+
+1770796486 c:\users\user\desktop\dz09-master\source\lib\mt6261\drivers\lcdif.h
+	"gditypes.h"
+
+1770796486 c:\users\user\desktop\dz09-master\source\gui\gditypes.h
+
+1770796486 c:\users\user\desktop\dz09-master\source\lib\mt6261\drivers\auxadc.h
+
+1770796486 c:\users\user\desktop\dz09-master\source\lib\mt6261\drivers\afe.h
+
+1770796486 c:\users\user\desktop\dz09-master\source\lib\mt6261\drivers\pwm.h
+
+1770796486 c:\users\user\desktop\dz09-master\source\lib\mt6261\drivers\usb.h
+
+1770796486 c:\users\user\desktop\dz09-master\source\lib\mt6261\drivers\che.h
+
+1770796486 c:\users\user\desktop\dz09-master\source\lib\mt6261\drivers\msdc.h
+	"sdcmd.h"
+
+1770796486 c:\users\user\desktop\dz09-master\source\lib\mt6261\drivers\sdcmd.h
+
+1770796486 c:\users\user\desktop\dz09-master\source\lib\mt6261\drivers\spi.h
+
+1770796486 c:\users\user\desktop\dz09-master\source\lib\mt6261\drivers\kp.h
+
+1770796486 c:\users\user\desktop\dz09-master\source\system\init.h
+
+1770796486 c:\users\user\desktop\dz09-master\source\system\memory.h
+
+1770796486 c:\users\user\desktop\dz09-master\source\system\utils.h
+
+1770796486 c:\users\user\desktop\dz09-master\source\system\pmngr.h
+
+1770796486 c:\users\user\desktop\dz09-master\source\system\evmngr.h
+
+1770796486 c:\users\user\desktop\dz09-master\source\system\lrtimer.h
+
+1770796486 c:\users\user\desktop\dz09-master\source\system\sw_i2c.h
+
+1770796486 c:\users\user\desktop\dz09-master\source\system\ringbuf.h
+
+1770796486 c:\users\user\desktop\dz09-master\source\system\crc.h
+
+1770796486 c:\users\user\desktop\dz09-master\source\system\fscache.h
+
+1770796486 c:\users\user\desktop\dz09-master\source\system\sf.h
+
+1770796486 c:\users\user\desktop\dz09-master\source\gui\guilib.h
+	"gditypes.h"
+	"gdifont.h"
+	"gdiutils.h"
+	"guiobject.h"
+	"gdi.h"
+	"gui.h"
+	"fontlib.h"
+
+1770796486 c:\users\user\desktop\dz09-master\source\gui\gdifont.h
+	"bfcfont.h"
+
+1770796486 c:\users\user\desktop\dz09-master\source\gui\bfcfont.h
+
+1770796486 c:\users\user\desktop\dz09-master\source\gui\gdiutils.h
+
+1770796486 c:\users\user\desktop\dz09-master\source\gui\guiobject.h
+	"guiwin.h"
+	"guibutton.h"
+	"guilabel.h"
+
+1770796486 c:\users\user\desktop\dz09-master\source\gui\guiwin.h
+
+1770796486 c:\users\user\desktop\dz09-master\source\gui\guibutton.h
+
+1770796486 c:\users\user\desktop\dz09-master\source\gui\guilabel.h
+
+1770796486 c:\users\user\desktop\dz09-master\source\gui\gdi.h
+
+1770796486 c:\users\user\desktop\dz09-master\source\gui\gui.h
+
+1770796486 c:\users\user\desktop\dz09-master\source\bootloader\sha-1.h
+
+1770796486 source:c:\users\user\desktop\dz09-master\source\lib\bootheader.c
+	<stdint.h>
+	"mtktypes.h"
+
+1770796486 c:\users\user\desktop\dz09-master\source\lib\mtktypes.h
+
+1770796486 source:c:\users\user\desktop\dz09-master\source\lib\mt6261\drivers\emi.c
+	"systemconfig.h"
+	"gpio.h"
+
+1770796486 source:c:\users\user\desktop\dz09-master\source\lib\mt6261\drivers\gpio.c
+	"systemconfig.h"
+	"gpio.h"
+
+1770796486 source:c:\users\user\desktop\dz09-master\source\lib\mt6261\drivers\pctl.c
+	"systemconfig.h"
+	"pctl.h"
+
+1770796486 source:c:\users\user\desktop\dz09-master\source\lib\mt6261\drivers\pll.c
+	"systemconfig.h"
+	"pll.h"
+
+1770796486 source:c:\users\user\desktop\dz09-master\source\lib\mt6261\drivers\rgu.c
+	"systemconfig.h"
+	"rgu.h"
+
+1770796486 source:c:\users\user\desktop\dz09-master\source\lib\mt6261\drivers\tcmcache.c
+	"systemconfig.h"
+	"tcmcache.h"
+
+1770796486 source:c:\users\user\desktop\dz09-master\source\lib\mt6261\drivers\usart.c
+	"systemconfig.h"
+	"usart.h"
+
+1770796486 source:c:\users\user\desktop\dz09-master\source\lib\mt6261\drivers\ustimer.c
+	"systemconfig.h"
+	"ustimer.h"
+
+1770796486 source:c:\users\user\desktop\dz09-master\source\startup_mt6261x.s
+
